@@ -1,0 +1,28 @@
+Inventory Bottles 4
+Summarize
+Purchase Sue Bottles 1
+Purchase Dan Bottles 2
+Summarize
+Purchase Sue Bottles 1
+Summarize
+Quit
+/** test_ImmediateSummary Results should be: **/
+There are 4 Bottles 0 Diapers and 0 Rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any Bottles
+no one has purchased any Diapers
+no one has purchased any Rattles
+There are 1 Bottles 0 Diapers and 0 Rattles in inventory
+we have had a total of 2 different customers
+Dan has purchased the most Bottles (2)
+no one has purchased any Diapers
+no one has purchased any Rattles
+There are 0 Bottles 0 Diapers and 0 Rattles in inventory
+we have had a total of 2 different customers
+Sue has purchased the most Bottles (2)
+no one has purchased any Diapers
+no one has purchased any Rattles
+/********* end of test_ImmediateSummary *************/
+
+
+
